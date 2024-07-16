@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/emersonfsti/calculadora-rankeadas/blob/main/img/logoLogicaDIO.png?raw=true" alt="Logo Logica de Programação DIO" style="float:left; margin-right:10px;" width="150" height="125"/>
+<img src="https://github.com/emersonfsti/Calculadora-de-partidas-Rankeadas/blob/main/img/logoLogicaDIO.png?raw=true" alt="Logo Logica de Programação DIO" style="float:left; margin-right:10px;" width="150" height="125"/>
 <h1>Formação Lógica de Programação</h1>
 </div>
 <hr>
