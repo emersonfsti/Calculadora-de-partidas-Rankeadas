@@ -1,13 +1,15 @@
 <div>
-<img src="https://github.com/emersonfsti/Calculadora-de-partidas-Rankeadas/blob/main/img/logoLogicaDIO.png?raw=true" alt="Logo Logica de Programação DIO" style="float:left; margin-right:10px;" width="150" height="125"/>
+<img src="https://github.com/emersonfsti/Calculadora-de-partidas-Rankeadas/blob/main/img/logoLogicaDIO.png?raw=true" alt="Logo Logica de Programação DIO" style="float:left; margin-right:10px;" width="100" height="80"/>
 <h1>Formação Lógica de Programação</h1>
 </div>
 <hr>
-<br>
 
 ## Emerson Felix de Souza.
 
-> No projeto "Classificador de Nível de Herói", criado por mim, Emerson Felix, em 12/07/2024, desenvolvi um script em JavaScript que classifica heróis com base na quantidade de experiência (XP) acumulada. Utilizei um laço de repetição for para incrementar a XP do herói em 500 a cada iteração, até completar 21 iterações. Com uma estrutura de decisão switch case, determinei e exibi a classificação do herói em categorias como Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal e Radiante, conforme a XP acumulada em cada etapa.
+### Descrição do Projeto: Calculadora de Partidas Rankeadas
+
+> O projeto "Calculadora de Partidas Rankeadas" é uma ferramenta desenvolvida em JavaScript com o objetivo de calcular e classificar o saldo de vitórias de um herói em um ambiente de partidas rankeadas. O sistema simula uma série de jogos, incrementando as vitórias e derrotas do herói a cada iteração, e categoriza o nível do herói com base no saldo de vitórias acumulado. As classificações vão desde Ferro até Imortal, proporcionando uma visão clara da evolução do herói ao longo das partidas.
+> Este projeto serve como uma excelente prática para o uso de variáveis, funções, loops, e estruturas de decisão, oferecendo uma abordagem prática e interativa para entender esses conceitos fundamentais na programação.
 
 # Entendendo o Desafio
 
